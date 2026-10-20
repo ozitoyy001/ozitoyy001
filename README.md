@@ -1,7 +1,7 @@
 
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=adi1090x)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=ozitoyy001)
 
 I am the developer of my distro, Which is an open-source Linux distribution based on [Arch Linux](https://archlinux.org).
 

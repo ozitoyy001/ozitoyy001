@@ -27,4 +27,5 @@ archlinux
 
 <!--END_SECTION:waka-->
 **it looks like this**
+
 <img width="1920" height="1077" alt="2026-10-20_11-27" src="https://github.com/user-attachments/assets/176591e1-d952-4d56-8e15-73be2b7b5826" />

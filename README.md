@@ -22,7 +22,7 @@ I love spending my time creating something that not only looks good but also per
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+archlinux
 ```
 
 <!--END_SECTION:waka-->

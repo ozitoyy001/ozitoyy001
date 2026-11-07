@@ -6,8 +6,6 @@ I am the developer of my distro, Which is an open-source Linux distribution base
 
 I love spending my time creating something that not only looks good but also perfectly usable and practical.
 
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="
-
 </br>
 
 📊 **This Week I Spent My Time On:**

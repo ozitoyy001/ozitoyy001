@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 https://capsule-render.vercel.app/api?type=blur&height=300&color=timeGradient&section=header&reversal=true&text=glad+to+see+you+here%21&textBg=false&fontSize=36&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=ozitoyy001)

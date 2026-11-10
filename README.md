@@ -1,9 +1,5 @@
 <div>
-https://capsule-render.vercel.app/api?type=blur&height=300&color=timeGradient&section=header&reversal=true&text=glad+to+see+you+here%21&textBg=false&fontSize=36&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60
-
-### Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=ozitoyy001)
-
-my current distros is [Arch Linux](https://archlinux.org).
+ <img src=https://capsule-render.vercel.app/api?type=waving&height=190&color=0%3A2a2b31%2C100%3A9fd4c0&section=header&reversal=false&textBg=false&fontColor=d6cf8a&fontSize=28&fontAlign=50&fontAlignY=28&rotate=0&strokeWidth=0&descSize=23&descAlign=50&descAlignY=52/>
 
 
 </br>

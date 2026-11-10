@@ -1,6 +1,4 @@
 <div>
- <img src=https://capsule-render.vercel.app/api?type=waving&height=190&color=0%3A2a2b31%2C100%3A9fd4c0&section=header&reversal=false&textBg=false&fontColor=d6cf8a&fontSize=28&fontAlign=50&fontAlignY=28&rotate=0&strokeWidth=0&descSize=23&descAlign=50&descAlignY=52/>
-
 
 </br>
 
@@ -23,7 +21,7 @@ archlinux
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OSINT-2a2b31?style=for-the-badge&logo=wireshark&logoColor=9fd4c0" />
+  <img src="https://img.shields.io/badge/OSINT-2a2b31?style=for-the-badge&logoColor=cfd4c0" />
   <img src="https://img.shields.io/badge/Github-2a2b31?style=for-the-badge&logoColor=cfd0c8" />
   <img src="https://img.shields.io/badge/CSINT-2a2b31?style=for-the-badge&logoColor=d6cf8a" />
 </p>

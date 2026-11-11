@@ -24,11 +24,11 @@ you can get my dotsfiles in [config](https://github.com/ozitoyy001/publicdots)
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=,java,py,js,bash,linux,arch,git&theme=dark" />
 </p>
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/OSINT-2a2b31?style=for-the-badge&logoColor=cfd4c0" />
   <img src="https://img.shields.io/badge/Github-2a2b31?style=for-the-badge&logoColor=cfd0c8" />
   <img src="https://img.shields.io/badge/CSINT-2a2b31?style=for-the-badge&logoColor=d6cf8a" />

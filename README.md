@@ -7,6 +7,8 @@ all my socials are in bio,
 
 i often play cs on my [iso](https://steamcommunity.com/profiles/76561199755803008) acc 
 
+<img src="https://faceit-widget.pages.dev/widget?nickname=Ozitoy&show-kd=true&show-ranking=true&show-last-20=true">
+
 ---
 
 i switch to linux like 3month ago

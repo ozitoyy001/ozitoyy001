@@ -25,7 +25,7 @@ you can get my dotsfiles in [config](https://github.com/ozitoyy001/publicdots)
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=,java,py,js,bash,linux,arch,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=,java,py,js,bash,linux,arch,&theme=dark" />
 </p>
 
 <div align="center">
